@@ -1,0 +1,17 @@
+{
+  "name": "tailwind_demo",
+  "version": "1.0.0",
+  "description": "Tailwind",
+  "main": "index.js",
+  "scripts": {
+    "start" : "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^4.0.4"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
